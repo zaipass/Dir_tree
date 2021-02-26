@@ -1,5 +1,7 @@
 # mobile
 
+> 用于目录树的展示
+
 ## Project setup
 ```
 npm install
